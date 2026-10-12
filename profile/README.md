@@ -19,7 +19,7 @@
 | [sdk-java](https://github.com/shopsavvy/sdk-java) | Maven `com.shopsavvy:shopsavvy-sdk` |
 | [sdk-kotlin](https://github.com/shopsavvy/sdk-kotlin) | Gradle `com.shopsavvy:shopsavvy-sdk-kotlin` |
 | [sdk-swift](https://github.com/shopsavvy/sdk-swift) | SwiftPM `https://github.com/shopsavvy/sdk-swift.git` |
-| [sdk-php](https://github.com/shopsavvy/sdk-php) | `composer require shopsavvy/shopsavvy-sdk-php` |
+| [sdk-php](https://github.com/shopsavvy/sdk-php) | `composer config repositories.shopsavvy vcs https://github.com/shopsavvy/sdk-php` then `composer require shopsavvy/shopsavvy-sdk-php` |
 | [sdk-ruby](https://github.com/shopsavvy/sdk-ruby) | `gem install shopsavvy-sdk` |
 | [sdk-csharp](https://github.com/shopsavvy/sdk-csharp) | `dotnet add package ShopSavvy.Sdk` |
 
