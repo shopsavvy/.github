@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Data API documentation
+    url: https://shopsavvy.com/data/documentation
+    about: Endpoints, parameters, credit costs and every error code with its fix.
+  - name: Questions and ideas
+    url: https://github.com/shopsavvy/shopsavvy-mcp-server/discussions
+    about: Ask a question or share what you're building.
+  - name: Account, billing or API key help
+    url: https://shopsavvy.com/data
+    about: Email support@shopsavvy.com for anything tied to your account.

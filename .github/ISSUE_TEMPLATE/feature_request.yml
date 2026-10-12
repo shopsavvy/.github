@@ -1,0 +1,20 @@
+name: Feature request
+description: Suggest an improvement to this SDK, server or integration
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the task or workflow, not just the feature.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help?
+      description: The method, parameter, tool or behaviour you'd like. If it needs something the API doesn't return today, say so.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you do today instead
