@@ -23,7 +23,7 @@
 | [sdk-ruby](https://github.com/shopsavvy/sdk-ruby) | `gem install shopsavvy-sdk` |
 | [sdk-csharp](https://github.com/shopsavvy/sdk-csharp) | `dotnet add package ShopSavvy.Sdk` |
 
-Plus 83 integrations (agent frameworks, workflow tools, web frameworks, chat bots and more): [shopsavvy.com/integrations](https://shopsavvy.com/integrations)
+Plus 76 integrations (agent frameworks, workflow tools, web frameworks, chat bots and more): [shopsavvy.com/integrations](https://shopsavvy.com/integrations)
 
 ### Find us
 
